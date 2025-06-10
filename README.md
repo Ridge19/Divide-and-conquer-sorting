@@ -1,5 +1,6 @@
 # Divide-and-conquer-sorting
 Week 7: Divide and Conquer (Algorithms and Analysis, Sem1 2025)
+cloned and forked repository from [github classroom - Algorithms and Analysis](https://github.com/RMIT-COSC2123-3119-AA25/rmit-cosc2123-3119-aa25-classroom-divide-and-conquer-divide-and-conquer-mergesort-quicksort) 
 
 ## divide-and-conquer-mergesort-quicksort
 
